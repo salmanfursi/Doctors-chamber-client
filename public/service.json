@@ -1,0 +1,32 @@
+[
+  {
+    "image_url": "https://img.freepik.com/free-photo/dentist-making-professional-teeth-cleaning-withb-cotton-female-young-patient-dental-office_496169-907.jpg?w=740&t=st=1695302797~exp=1695303397~hmac=e92edc93160b69ac5bf626b482956e6373a02262adee38b9a00f3df1655af507",
+    "title": "Dental Checkups",
+    "description": "Comprehensive dental examinations to assess oral health.",
+    "price": "$80 - $120"
+  },
+  {
+    "title": "Teeth Cleaning",
+    "description": "Professional teeth cleaning to remove plaque, tartar, and stains.",
+    "price": "$100 - $150",
+    "image_url": "https://img.freepik.com/free-photo/beautiful-girl-sitting-dentist-s-office_1157-20949.jpg?w=740&t=st=1695302741~exp=1695303341~hmac=7962cbaa015628874ec9ec6ff51459a5ae0e34244cae4f75a0d0ef8a41719799"
+  },
+  {
+    "title": "Fillings (Dental Restorations)",
+    "description": "Restoration of damaged or decayed teeth with dental fillings.",
+    "price": "$150 - $250",
+    "image_url": "https://img.freepik.com/free-photo/dentists-treat-patients-teeth_1150-19622.jpg?size=626&ext=jpg&uid=R117324205&ga=GA1.2.1184376093.1693905833&semt=ais"
+  },
+  {
+    "title": "Orthodontic Treatment",
+    "description": "Correction of misaligned teeth and bite issues through braces or aligners.",
+    "price": "$2,500 - $6,000",
+    "image_url": "https://img.freepik.com/free-photo/smiling-young-woman-with-braces-teeth_651396-2564.jpg?size=626&ext=jpg&uid=R117324205&ga=GA1.1.1184376093.1693905833&semt=ais"
+  },
+  {
+    "title": "Oral Surgery (Extractions and Wisdom Teeth Removal)",
+    "description": "Surgical procedures for the removal of damaged, impacted, or wisdom teeth.",
+    "price": "$200 - $500",
+    "image_url": "https://img.freepik.com/free-photo/woman-patient-dentist_1303-9348.jpg?size=626&ext=jpg&uid=R117324205&ga=GA1.2.1184376093.1693905833&semt=ais"
+  }
+]
